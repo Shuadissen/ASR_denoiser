@@ -22,16 +22,19 @@
         </p>
     </div>
 </div>
-<div class="content-container">
-    <img src="Formalwhisper_denoiser.png" style="width:20%; height:auto;">
-    <br>
-    <p>
+<div class="content-container" style="display: flex; align-items: center;">
+    <img src="Formalwhisper_denoiser.png" style="width: 20%; height: auto; margin-right: 20px;">
+    <p style="flex: 1;">
       Robust automatic speech recognition (ASR) in packet loss and noisy environments remains challenging. Large pretrained transformer models have made notable strides in improving ASR performance across diverse domains. However, there is still significant room for improvement, even in moderate packet loss and noise conditions. Enhancing these models is particularly difficult because retraining is computationally prohibitive, and finetuning introduces the risk of domain shift, which can degrade performance in other languages or environments.
+      <br><br>
       We introduce a novel method that leverages a front-end adaptation network to enhance word error rate (WER) performance in packet loss and noisy scenarios. Our approach addresses the constraints of working with large pretrained ASR models while avoiding retraining or finetuning.
+      <br><br>
       We connect an adaptation network to a frozen ASR model, where the network is trained to modify corrupted input spectra using both the ASR model’s loss function and an enhancement loss. This strategy allows the system to adapt to packet loss and noise without compromising the original ASR model's performance or generalization across domains.
+      <br><br>
       The method focuses on improving WER rather than signal quality or intelligibility, targeting it for ASR applications. We conduct a comprehensive set of experiments on various noise types. Our results demonstrate that the adaptation network significantly reduces WER in all conditions while preserving the foundational performance of the pretrained ASR model.
-  </p>
+    </p>
 </div>
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 <div class="content-container">
