@@ -2,41 +2,41 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>ScalerGAN: Generative Adversarial Networks for Time-Scale modification of Speech</title>
+        <title>A Front-End Adaptation Network for Improving
+          Speech Recognition Performance in Packet Loss
+          and Noisy Environments</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
         <script src="jquery-3.5.js"></script>
     </head>
     <body>
 <div class="container">
-    <div id="text1">ScalerGAN: Generative Adversarial Networks for </br> Time-Scale modification of Speech</div>
+    <div id="text1">A Front-End Adaptation Network for Improving
+      Speech Recognition Performance in Packet Loss
+      and Noisy Environments</div>
     <div id="intro">
         <br>
         <p>
-            Eyal Cohen, Felix Kreuk, and Joseph Keshet
+          Yehoshua Dissen, Shiry Yonash, Israel Cohen and Joseph Keshet
       </p>
        <p>
-            [<a href="https://ieeexplore.ieee.org/document/9747953">Paper</a>]
+            [<a href="https://arxiv.org/abs/2406.18928">Paper</a>]
         </p>
        <p>
-            [<a href="https://github.com/MLSpeech/scaler_gan">Code</a>]
+            [<a href="https://github.com/MLSpeech/WhisperDenoiser">Code</a>]
         </p>
     </div>
 </div>
 <div class="content-container">
-    <img src="ScalerGAN_therealthing.png" style="width:70%">
+    <img src="Formalwhisper_denoiser.pdf" style="width:70%">
     <br>
     <p>
-        While listening to spoken content, it is often desired to vary the speech rate while preserving the speaker’s timbre and pitch.
-        To date, advanced signal processing techniques are used to address this task, 
-        but it still remains a challenge to maintain a high speech quality at all time-scales. 
-        Inspired by the success of speech generation using Generative Adversarial Networks (GANs), 
-        we propose a novel unsupervised learning algorithm for time-scale modification (TSM) of speech, called ScalerGAN. 
-        The model is trained using a set of speech utterances, where no time-scales are provided. 
-        The ScalerGAN algorithm is composed of a generator that gets as input speech with the desired rate and outputs a time-adjusted speech; 
-        a discriminator that works on various spectrum scales; 
-        and a decoder that converts the time-adjusted signal back to the original rate to maintain consistency. 
-        Using an A/B test and conditional A/B test, human listeners were asked to compare ScalerGAN with other state-of- the-art TSM methods. 
-        The results showed that the speech quality of ScalerGAN outperforms all other methods.
+      Robust automatic speech recognition (ASR) in packet loss and noisy environments remains challenging. Large pretrained transformer models have made notable strides in improving ASR performance across diverse domains. However, there is still significant room for improvement, even in moderate packet loss and noise conditions. Enhancing these models is particularly difficult because retraining is computationally prohibitive, and finetuning introduces the risk of domain shift, which can degrade performance in other languages or environments. 
+      %
+      We introduce a novel method that leverages a front-end adaptation network to enhance word error rate (WER) performance in packet loss and noisy scenarios. Our approach addresses the constraints of working with large pretrained ASR models while avoiding retraining or finetuning. 
+      We connect an adaptation network to a frozen ASR model, where the network is trained to modify corrupted input spectra using both the ASR model’s loss function and an enhancement loss. This strategy allows the system to adapt to packet loss and noise without compromising the original ASR model's performance or generalization across domains.
+      %
+      The method focuses on improving WER rather than signal quality or intelligibility, targeting it for ASR applications. 
+      We conduct a comprehensive set of experiments on various noise types. Our results demonstrate that the adaptation network significantly reduces WER in all conditions while preserving the foundational performance of the pretrained ASR model.
     </p>
 </div>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
