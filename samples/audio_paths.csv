@@ -1,55 +1,55 @@
 Model,PL_Rate,audio,target
-FRN,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-FRN,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-tPLCnet,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Ours_GL,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
-Original,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav
+FRN,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.0,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.0/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.05,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.05/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.1,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.1/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.2,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.2/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.3,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.3/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.4,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.4/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.5,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.5/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.6,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.6/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.7,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.7/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.8,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.8/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+FRN,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/FRN/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+tPLCnet,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/tPLCnet/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Ours_GL,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Ours_GL/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
+Original,0.9,/home/shua/home/Shua/recipies/ASR_denoiser/samples/Original/0.9/ALL_005_M_CMN_ENG_HT1_S008_LVL70_SNRn4.wav,She's drinking from her own cup
